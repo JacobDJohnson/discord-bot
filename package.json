@@ -1,0 +1,16 @@
+{
+    "name": "discord-bot",
+    "version": "1.0.0",
+    "description": "First Discord Bot.",
+    "main": "bot.js",
+    "author": "Jake Johnson",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/JacobDJohnson/discord-bot.git"
+    },
+    "license": "UNLICENSED"
+}
